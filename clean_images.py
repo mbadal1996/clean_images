@@ -12,7 +12,7 @@ Created on Thu Jul  1 15:32:00 2021
 # clean_images v1.0
 # Comments:
 #    
-# The following code removes images from a folder as part of the cleaning 
+# The following python code removes images from a folder as part of the cleaning 
 # process necessary in many machine learning tasks. The list of images called 
 # 'img_clean_list' has to be manually created by the user as a list. 
 # While this is labor intensive and not an automatic solution, it only has
